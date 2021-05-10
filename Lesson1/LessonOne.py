@@ -1,7 +1,7 @@
 # 1. Exercise print to console
 # 2. String properties
 # 3. Primitive types
-
+import math
 # Strings | Print name length, upper & lower letters.
 x = "name"
 name = "Christos"
@@ -24,6 +24,6 @@ print(c)
 # Int | complex
 d = complex(c)
 print(d)
-
+# if else + ex lesson 2 defterova9mia exisosh
 
 
