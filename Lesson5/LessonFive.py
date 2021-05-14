@@ -7,3 +7,4 @@ print(nissan.manufacturer)
 print(nissan.model)
 print(nissan.releaseDate)
 print(nissan.doors)
+
